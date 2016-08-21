@@ -1,0 +1,7 @@
+.truncate {
+    width: 50%;
+}
+
+.ui-dialog-titlebar-close {
+    visibility: hidden;
+}
